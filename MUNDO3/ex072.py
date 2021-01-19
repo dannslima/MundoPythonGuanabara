@@ -1,4 +1,5 @@
-#Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte.
+#Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso,
+# de zero até vinte.
 #Seu programa deverá ler um numero pelo teclado (entre 0 e 20) e motra-lo por extenso.
 
 cont = ('zero','um','dois','tres','quatro','cinco','seis','sete','oito','nove','dez','onze','doze',
