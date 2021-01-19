@@ -10,6 +10,11 @@ brasileirao = ('Palmeiras', 'Flamengo', 'Internacional', 'Grêmio', 'São Paulo'
     'Bahia', 'Corinthians', 'Fluminense', 'Ceará', 'Vasco da Gama', 'Sport Recife',
     'América-MG', 'Chapecoense', 'Vitória', 'Paraná')
 
+print('-='*15)
 print(f'5 Primeiros Colocados {brasileirao[0:5]}')
+print('-='*15)
 print(f'Os últimos 4 colocados são {brasileirao[-4:]}')
+print('-='*15)
 print(f' Ordem Alfabética {sorted(brasileirao)}')
+print('-='*15)
+print (f'O Chapecó está na {brasileirao.index("Chapecoense")+1}º posição')
